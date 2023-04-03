@@ -6,6 +6,11 @@
     padding: 10px;
 }
 
+.media-icons {
+	display: flex;
+	gap: 10px;
+}
+
 .content {
     background-color: aliceblue;
 }
